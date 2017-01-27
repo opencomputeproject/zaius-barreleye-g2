@@ -6,4 +6,4 @@ Zaius & Barreleye G2- OpenPOWER & Open Compute-based Open Source Hardware Design
 
 Specs – Hardware and Software Specification
 
-HW – Hardware Collateral & Design Package (Schematics, Board Files, Mechanical Assemblies)
+HW – Hardware Collateral & Design Package Information (Schematics, Board Files, Mechanical Assemblies, BoM)
