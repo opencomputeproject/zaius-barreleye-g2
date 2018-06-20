@@ -12,4 +12,4 @@ This directory content is driven using Large File Storage extension from github.
 
 Using "git lfs ls-file" will display which files which are managed by lfs within this repo.
 
-If you are having problems with Git LFS, you may also download the entire design package here: http://files.opencompute.org/oc/public.php?service=files&t=a769fded8e6162abf7df2f8c7d2f2888&download (version 0.6.0 as of March 29th, 2017)
+If you are having problems with Git LFS, you may also download the entire design package here: http://files.opencompute.org/oc/public.php?service=files&t=a769fded8e6162abf7df2f8c7d2f2888&download (version 0.9.0 as of June 10th, 2018)
